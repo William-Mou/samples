@@ -38,5 +38,5 @@ techniques for one of your own apps, try one of these resources:
 * [The Flutter Gitter channel](https://gitter.im/flutter/flutter)
 * [StackOverflow](https://stackoverflow.com/questions/tagged/flutter)
 
-If you run into a bug in one of the samples, please file an issue in the
+If you run into a bug in one of the samples, please file an issue in this
 [main Flutter repo](https://github.com/flutter/flutter/issues).
